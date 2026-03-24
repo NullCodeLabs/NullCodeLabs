@@ -1,4 +1,3 @@
-
 ## The Call-Out
 
 Still paying for Notion? Cool.
