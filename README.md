@@ -1,11 +1,11 @@
-<blockquote align="right">"It's not the AI that's at fault, it's the logic." 🔑🛠️</blockquote>
+## @NullCodeLabs | "It's not the AI that's at fault, it's the logic." 🔑🛠️
 
-> Use it. Improve it. Share it — on demand. We'll carry your name. 🤝
-> I'm not a businessman, I'm a business, man. 👊
-> Just copy, paste, and so 🫵 are you.
-> Free is not a price. It's 🛟 a promise.
-
-## @NullCodeLabs
+<blockquote>
+Use it. Improve it. Share it — on demand. We'll carry your name. 🤝<br>
+I'm not a businessman, I'm a business, man. 👊<br>
+Just copy, paste, and so 🫵 are you.<br>
+Free is not a price. It's 🛟 a promise.
+</blockquote>
 
 ---
 
