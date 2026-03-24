@@ -2,9 +2,9 @@
 > I'm not a businessman, I'm a business, man. 👊
 > Just copy, paste, and so 🫵 are you.
 > Free is not a price. It's 🛟 a promise.
-# NullCodeLabs
 
-> "It's not the AI that's at fault, it's the logic."
+# NullCodeLabs
+### @NullCodeLabs | "It's not the AI that's at fault, it's the logic." 🔑🛠️
 
 ---
 
@@ -43,6 +43,17 @@ Replacing expensive software with clean logic — one prompt at a time.
 
 ---
 
+## Like what you see?
+
+⭐ Star the repo — it's free and it helps.
+🔁 Share it — someone you know is still paying for this.
+💬 Open an issue — idea, fix, or prompt to add.
+🤝 Fork it — improve it, send a PR.
+
+> The more prompts we ship, the less anyone needs to pay for software.
+
+---
+
 ## License & Rules
 
 CC BY-NC-SA 4.0 — Free to use. Not for resale.
@@ -50,11 +61,12 @@ Credit: @NullCodeLabs | github.com/NullCodeLabs
 
 ---
 
+NullCodeLabs fills the App Gap.
 Stop paying for what prompts can do for free.
 The app you need doesn't exist. The prompt does.
 Don't rent the solution. Own the logic.
 
-#FreePrompt #FreePromptLibrary #NoCodeAI
+#AppGap #FreePrompt #FreePromptLibrary #NoCodeAI
 #PromptEngineering #NullCodeLabs
 #OSINT #OpenSourceIntelligence #DueDiligence
 #OnDemandPrompt #Prompt2Hero
