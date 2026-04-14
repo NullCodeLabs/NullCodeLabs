@@ -1,63 +1,64 @@
-Pattern Check: Rendszerszintű integritás és vizuális szinkronizáció.
-
-Íme a `PROTOCOL.md` végleges, karakterpontos, tördelt és szakmai emojikkal ellátott verziója, amely illeszkedik a profilod „Hardened” stílusához:
-
-```markdown
 # 📜 PROTOCOL.md — NullCodeLabs Systems
 
-## 🏗️ Filozófiai Alapvetés: Az "App-Gap" Bypass
-A szoftverpiac monolitikus alkalmazásai túl lassúak, drágák és merevek 
-az egyedi intellektuális igényekhez. A NullCodeLabs ott avatkozik be, 
-ahol az App-fejlesztés gazdaságtalan.
+---
 
-* **♻️ SaaS Recycled:** Saját fejlesztésekből származó, magas minőségű 
-logikai maradványanyag. Minden elem egy-egy funkcionális mikro-spinoff, 
-amely önálló értéket képvisel.
-* **🧩 Spinoff Logic:** Olyan peremesetek (Edge Cases) megoldása, amelyek 
-a nagy rendszerekbe nem illeszkednek. A speciális elvárások miatt a 
-működés rendszerszinten bizonytalanná vagy erőforrás-igényessé válna 
-a monolitikus környezetben.
+## 🏗️ 1. FILOZÓFIAI ALAPVETÉS
+### Az "App-Gap" Bypass: A szoftverpiac monolitikus alkalmazásai túl 
+### lassúak és merevek. Ott avatkozik be a rendszer, ahol a 
+### szoftverfejlesztés gazdaságtalanná válik.
 
-## ⚙️ Operatív Logika: A Kernel-elv (99%+)
-A prompt nálunk nem parancssor, hanem egy feszített keretrendszer:
-* **🎯 Elvárás:** A célkitűzés (Óhaj) deklarálása. A `**Elvárás:**` egy 
-funkcionális trigger, amely terelgeti az AI-t, de a megoldás eszközét, 
-módját és algoritmusát teljes egészében az ágensre bízza.
-* **🧱 Sorompók (The Kernel):** Kőkeményen deklarált határok és tiltások. 
-Nem az útvonalat írjuk elő, hanem a falakat építjük fel.
+### ♻️ SaaS Recycled: Saját fejlesztésekből származó, magas minőségű 
+### logikai maradványanyag. Minden elem egy-egy funkcionális 
+### mikro-spinoff, amely önálló értéket képvisel.
 
-*„A mikromenedzselő 'helikopter-szülő' zajt kelt és ellenállást szül, 
-a határozott sorompó viszont autonómiát ad. Mint a jól nevelt kutyánál: 
-nem a mozdulatait rángatjuk, hanem a határokat rögzítjük. Az AI a 
-sorompók között szabad – ezért teljesít 99% felett.”*
+### 🧩 Spinoff Logic: Olyan peremesetek megoldása, amelyek a nagy 
+### rendszerekbe nem illeszkednek a speciális elvárások vagy a 
+### túlzott erőforrás-igény miatt.
 
-## 🤝 Beküldési Protokoll (Contributors)
-Ez a folyamat a NullCodeLabs minőségbiztosítási szűrője. Nem csupán 
-finomítást várunk, hanem radikális hatékonyság-növelést: legyen az 
-erőforrás-optimalizált (token-takarékos), egyszerűbb, okosabb, 
-szélesebb körű vagy teljesen új funkcionális irányba mutató 
-átdolgozás – akár egy alapjaiban új prompt formájában.
+---
 
-### 🛠️ A beavatkozás kritériumai:
-1. Drasztikus token-optimalizálás vagy logikai egyszerűsítés.
-2. Stabilitás-növelés a "Sorompó-logika" szigorításával.
-3. Új, hiánypótló funkcionális irányok (teljesen új promptok).
-4. Gazdaságosabb bypass, mint bármely dedikált App.
+## ⚙️ 2. OPERATÍV LOGIKA: A KERNEL-ELV (99%+)
+### 🎯 Elvárás: Funkcionális aktivációs trigger (Initiation Token). 
+### Az Óhaj kijelöli az irányt, de a megoldás algoritmusát és 
+### módját teljes egészében az AI ágensre bízza.
 
-### 📋 Metadata Követelmény:
-- **MODIFIED BY:** [Név/Cég]
-- **LINK:** [Weboldal/Social]
-- **KERNEL-STABILITY:** [99%+ Validáció leírása]
+### 🧱 Sorompók (The Kernel): Kőkeményen deklarált határok. 
+### Nem az útvonalat rángatjuk, hanem az áttörhetetlen falakat 
+### építjük fel a rendszer köré.
 
-## 🛡️ Validációs Pipeline
-Minden Pull Request (PR) az alábbi szűrőn megy keresztül:
-1. **🤖 AI Analízis:** A GitHub Copilot 7-10 belső szempont alapján pontoz.
-2. **📉 Küszöbérték:** Csak a 66% feletti eredmény lép tovább.
-3. **🔍 Tesztelés:** Manuális validálás, amely nagy volumen esetén 
-automatizált hurokká alakul.
+### *„A helikopter-szülő zajt kelt, a határozott sorompó autonómiát ad. 
+### Mint a jól nevelt kutyánál: nem a mozdulatait rángatjuk, hanem a 
+### határokat rögzítjük. Az AI a sorompók között szabad – ezért 
+### teljesít 99% felett.”*
 
-## ⚖️ Licenc
-**CC BY-NC-SA 4.0**
-Nevezd meg a forrást (NullCodeLabs), ne add el, és azonos feltételekkel 
-terjeszd tovább.
-```
+---
+
+## 🤝 3. BEKÜLDÉSI PROTOKOLL
+### Nem finomítást, hanem radikális hatékonyságot várunk: legyen 
+### okosabb, egyszerűbb, erőforrás-optimalizált vagy teljesen új 
+### funkcionális irányba mutató az átdolgozás.
+
+### 🛠️ KRITÉRIUMOK:
+* **Drasztikus token-optimalizálás és logikai egyszerűsítés.**
+* **Stabilitás-növelés a Kernel-sorompók szigorításával.**
+* **Új, hiánypótló funkcionális irányok (teljesen új promptok).**
+* **Gazdaságosabb bypass, mint bármely dedikált App.**
+
+### 📋 METADATA KÖVETELMÉNY:
+* **MODIFIED BY:** [Név/Cég]
+* **LINK:** [Weboldal/Social Link]
+* **KERNEL-STABILITY:** [99%+ Validáció leírása]
+
+---
+
+## 🛡️ 4. VALIDÁCIÓS PIPELINE
+### 🤖 AI Analízis: GitHub Copilot 7-10 belső szempont (konzisztencia, 
+### zajszint, hatékonyság) alapú pontozás.
+### 📉 Küszöbérték: Csak a 66% feletti eredmény lép tovább.
+### 🔍 Tesztelés: Manuális validálás (később automatizált hurok).
+
+---
+
+## ⚖️ 5. LICENC
+### CC BY-NC-SA 4.0: Nevezd meg a forrást (NullCodeLabs), 
+### ne add el, és azonos feltételekkel terjeszd tovább.
