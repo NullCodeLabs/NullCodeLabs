@@ -11,26 +11,38 @@
 ### logikai maradványanyag. Minden elem egy-egy funkcionális 
 ### mikro-spinoff, amely önálló értéket képvisel.
 
+### 🧩 Spinoff Logic: Olyan peremesetek (Edge Cases) megoldása, amelyek 
+### a nagy rendszerekbe nem illeszkednek a speciális elvárások vagy a 
+### túlzott erőforrás-igény miatt.
+
 ---
 
-## ⚙️ 2. OPERATÍV LOGIKA: A KERNEL-ELV (99%+)
+## ⚙️ 2. OPERATÍV LOGIKA: A KERNEL-ELV (99%+ IGAZOLT MEGBIZHATÓSÁG, HATÉKONYSÁG NÖVEKEDÉS!)
 ### 🎯 Elvárás: Funkcionális aktivációs trigger (Initiation Token). 
-### Az Óhaj kijelöli az irányt, de a megoldást az AI ágensre bízza.
+### Az Óhaj kijelöli az irányt, de a megoldás algoritmusát és 
+### módját teljes egészében az AI ágensre bízza.
 
 ### 🧱 Sorompók (The Kernel): Kőkeményen deklarált határok. 
-### Nem az útvonalat rángatjuk, hanem a falakat építjük fel.
+### Nem az útvonalat rángatjuk, hanem az áttörhetetlen falakat 
+### építjük fel a rendszer köré.
+
+### *„A helikopter-szülő zajt kelt, a határozott sorompó autonómiát ad. 
+### Mint a jól nevelt kutyánál: nem a mozdulatait rángatjuk, hanem a 
+### határokat rögzítjük. Az AI a sorompók között szabad – ezért 
+### teljesít 99%+ IGAZOLT MEGBIZHATÓSÁG, HATÉKONYSÁG NÖVEKEDÉS! felett.”*
 
 ---
 
 ## 🤝 3. BEKÜLDÉSI PROTOKOLL
-### Nem finomítást, hanem radikális hatékonyságot várunk: legyen 
-### okosabb, egyszerűbb, vagy teljesen új funkcionális irány.
+### Nem CSAK EGYSZERŰ finomítást, hanem radikális hatékonyságot IS 
+### várunk: legyen okosabb, egyszerűbb, vagy teljesen új 
+### funkcionális irány.
 
-### 🔄 BEKÜLDÉS MÓDJA:
-* **Review Pipeline:** Az új vagy módosított promptokat Pull Request (PR) 
-formájában küldd be. Itt fut le a validációs szűrő.
-* **Review Repo:** A jóváhagyott verziók a manuális tesztelés után 
-kerülnek a végleges gyűjteménybe.
+### 🔄 BEKÜLDÉS ÉS REVIEW FOLYAMATA:
+1. **Fork:** Készíts másolatot a repóról a saját fiókodba.
+2. **Upload:** Töltsd fel a promptot a megfelelő mappába.
+3. **PR:** Indíts egy [Pull Request-et](https://github.com/NullCodeLabs/NullCodeLabs/pulls) 
+a fő ágba. **Ez aktiválja a Review folyamatot.**
 
 ---
 
@@ -41,7 +53,7 @@ kerülnek a végleges gyűjteménybe.
 ### 💡 Fejlesztési Irány: Új funkcionális egységek javaslata, meglévő 
 ### algoritmusok radikális egyszerűsítése vagy "bypass" ötletek.
 
-### 🛠️ Hogyan: Nyiss egy [Issue-t](https://github.com/NullCodeLabs/NullCodeLabs/issues) 
+### 🛠️ Kapcsolat: Nyiss egy [Issue-t](https://github.com/NullCodeLabs/NullCodeLabs/issues) 
 ### a szándék megjelölésével (BUG / FEATURE / LOGIC IMPROVEMENT).
 
 ---
@@ -56,7 +68,7 @@ kerülnek a végleges gyűjteménybe.
 * **1 Weboldal URL vagy Domain**
 * **2 Social portál profil link**
 * **2 Csevegő (Chat) elérés**
-* **KERNEL-STABILITY:** [99%+ Validáció leírása]
+* **KERNEL-STABILITY:** [99%+ IGAZOLT MEGBIZHATÓSÁG, HATÉKONYSÁG NÖVEKEDÉS! Validáció leírása]
 
 ---
 
