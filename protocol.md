@@ -46,10 +46,16 @@ kerülnek a végleges gyűjteménybe.
 
 ---
 
-## 📋 5. METADATA KÖVETELMÉNY
-### Minden beavatkozásnál kötelező feltüntetni:
-* **MODIFIED BY:** [Név/Cég]
-* **LINK:** [Weboldal/Social Link]
+## 📋 5. METADATA ÉS BRANDING
+### A metaadatok megadása kizárólag akkor kötelező, ha szeretnéd, 
+### hogy a sikeresen validált és publikált prompt hordozza a 
+### névjegyedet (Modified by/Author).
+
+### Deklarálható adatok (Limit):
+* **1 GitHub link**
+* **1 Weboldal URL vagy Domain**
+* **2 Social portál profil link**
+* **2 Csevegő (Chat) elérés**
 * **KERNEL-STABILITY:** [99%+ Validáció leírása]
 
 ---
