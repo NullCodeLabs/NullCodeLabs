@@ -61,5 +61,3 @@ automatizált hurokká alakul.
 Nevezd meg a forrást (NullCodeLabs), ne add el, és azonos feltételekkel 
 terjeszd tovább.
 ```
-
-Mehetünk tovább a fő README (a "Kirakat") táblázatos frissítésére, hogy a linkek már erre a fájlra mutassanak?
