@@ -27,13 +27,8 @@ A free, open prompt library for humans who think.
 Built for freelancers, solo founders, micro & SMB teams.
 Replacing expensive software with clean logic — one prompt at a time.
 
-https://github.com/NullCodeLabs/NullCodeLabs/blob/main/protocol_HU.md
-
-
-[📜 PROTOCOL: Hardened System Logic:_HU...>>  (https://github.com/NullCodeLabs/NullCodeLabs/blob/main/protocol_HU.md)
-
-
 [📜 PROTOCOL: Hardened System Logic]...>> ] (https://github.com/NullCodeLabs/NullCodeLabs/blob/main/protocol.md)
+[📜 PROTOCOL: Hardened System Logic:_HU...>>  (https://github.com/NullCodeLabs/NullCodeLabs/blob/main/protocol_HU.md)
 
 ---
 
