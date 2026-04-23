@@ -9,6 +9,17 @@
 > 🔧 Kell valami egyedi vagy különleges ⁉️ 👥 4u — [Kérd itt.](#)
 
 ---
+## NullCodeLabs prompt könyvtár — repók és mottóik
+
+| Repo | Mottó |
+|---|---|
+| `shut-up-ai-just-answer` | "Nem az AI a hibás — hanem a logika, amivel hajtod." |
+| `human2ai-intent-codec` | "Nem a kérés hibás — hanem a kényszertér, amibe csomagolod." |
+| `Write-Like-A-Pro-No-BS` | "Az AI annyit ír, amennyit a szándékod megér." |
+| `Build-Your-Repo-In-Minutes` | "A repó nem kód — a repó gondolkodás." |
+| `ncl-control-core` | "A kernel nem parancsol — korlátoz. Ez a különbség." |
+
+---
 
 ## 🔥 A probléma
 
@@ -57,17 +68,6 @@ Drága szoftverek helyett: tiszta logika — egy prompt egyszerre.
 
 > Minél több promptot szállítunk, annál kevesebbet kell szoftverért fizetni.
 
----
-
-## NullCodeLabs prompt könyvtár — repók és mottóik
-
-| Repo | Mottó |
-|---|---|
-| `shut-up-ai-just-answer` | "Nem az AI a hibás — hanem a logika, amivel hajtod." |
-| `human2ai-intent-codec` | "Nem a kérés hibás — hanem a kényszertér, amibe csomagolod." |
-| `Write-Like-A-Pro-No-BS` | "Az AI annyit ír, amennyit a szándékod megér." |
-| `Build-Your-Repo-In-Minutes` | "A repó nem kód — a repó gondolkodás." |
-| `ncl-control-core` | "A kernel nem parancsol — korlátoz. Ez a különbség." |
 
 ---
 
